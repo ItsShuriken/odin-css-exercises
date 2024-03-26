@@ -1,0 +1,21 @@
+
+
+.odd-class {
+    font-family: 'Veranda', 'DejaVu Sans', 'sans-serif';
+    background-color: rgb(255, 182, 193);
+}
+
+.cool-class {
+    font-size: 24px;
+}
+
+#won {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#too {
+    background-color: hsl(120, 73%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
